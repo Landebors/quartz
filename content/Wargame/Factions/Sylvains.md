@@ -108,154 +108,66 @@ Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisati
 ---
 ## Commandants
 
-### Azrsatch l'Unifikatrice — 56 pts
-
-| ⬜       | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Troll | **6** | **5+** | **-** | **5+** | **5** | **8** | **3** | **3** | Bête |
-| **Mêlée:** | Nd6 |  | **Tir:** | - |  |  |  |  |  |
-
-*[[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (2)]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (3)]].*
-
-##### Règles spéciales :
-- Disciple du Notan : choisissez si Azrsatch vous confère Affinité Chamanique (4) ou Affinité Occulte (4)
-- Main de Vrasha : Azrsatch lance un nombre de d6 en mêlée égal au nombre d'unité avec la règle spéciale Balance dans votre bande.
-- Equilibre : si l'affinité de votre bande est l'équilibre, générez 2 Manoeuvre supplémentaires en début de tour.
---- 
-### Big Boss — 36 pts
-
-| 🟥🟥       | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Champion   | **5**   | **4+**                                                                               | **-**                                                                                   | **4+**                                                                          | **8**                                                                            | **4**  | **2**  | **5**  | Orque    |
-| **Mêlée:** | 4d6     |                                                                                      | **Tir:**                                                                                | -                                                                               |                                                                                  |        |        |        |          |
-
-*Affinité Occulte (4), [[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (1)]], [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame]].*
-##### Équipement :
-- Hach plu Gross (+4 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (+1)]].
-##### Règles spéciales :
-- Tu la vois celle-là ? (1) : à utiliser lorsque qu’un modèle ami rate un test de moral à 6’’ ou moins, il le réussit.
-- Balance : Si l'affinité de votre bande est Chamanique, le modèle ciblé par *Tu la vois celle-là ?* bénéficie de [[Wargame/_Visualisation/Règles spéciales/Egide|Egide (2)]]. Si l'affinité de votre bande est Occulte, les unités du modèle ciblé par *Tu la vois celle-là ?* bénéficient de +1d6 en mêlée et à distance pour le reste du tour. 
----
-
 <div class="legendary">
 
-### Char'Kut — 42 pts
-
-</div>
-
-| ⬜ | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Chaman | **5** | **5+** | **4+** | **5+** | **7** | **3** | **2** | **4** | Orque |
-| **Mêlée:** | 2d6 |  | **Tir:** | - |  |  |  |  |  |
-
-*Affinité Chamanique (4).*
-##### Magie :
-- Char'Kut a accès au Domaine du Festin (Voir Krovors) ainsi qu'à un domaine au choix entre le Domaine Primordial et le Domaine des Ténèbres. Votre bande reçoit *Affinité Chamanique (4)* si Char'Kut apprend le Domaine Primordial, et *Affinité Occulte (4)* s’il apprend le Domaine des Ténèbres.
-- Poussière de fée (court, 12+, projectile) : Portée 12’’, la cible perd toutes ses règles spéciales.
-##### Règles Spéciales :
-- Gand Kuisto : Une fois que Char'Kut lance un sort, désignez un modèle à 9'' ou moins et octroyez-lui +1d6 en mêlée et à distance pour le reste du tour. Lorsque Char'Kut lance un sort du domaine du Festin, au lieu de déclenchez l'attribut de domaine, générez 1 Manoeuvre.
-- Peur des loups : Char'Kut souffre d'un malus de -3 au Moral tant qu'une bête se trouve à 6'' ou moins.
-- Balance : Si l'affinité de votre bande est Chamanique, Char'Kut génère un dé blanc supplémentaire. Si l'affinité de votre bande est Occulte, Char'Kut bénéficie d'un bonus de 2 à ses lancements de sorts. 
----
-
-<div class="legendary">
-
-### Grushek Kinoeil — 46 pts
-
-</div>
-
-| 🟥         | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Grushek    | **5**   | **4+**                                                                               | **-**                                                                                   | **4+**                                                                          | **9**                                                                            | **4**  | **2**  | **5**  | Orque    |
-| **Mêlée:** | 5d6     |                                                                                      | **Tir:**                                                                                | -                                                                               |                                                                                  |        |        |        |          |
-
-*Affinité Occulte (4), [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame]].*
-##### Équipement :
-- Arme lourde (+4 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (+1)]].
-##### Règles spéciales :
-- Par-là ! (2) : retirez le marqueur Activé d’un modèle à 6’’ ou moins.
----
-
-<div class="legendary">
-
-### Hoogit et Gro’os — 52 pts
-
-</div>
-
-| 🟥🟥       | **Vit**   | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | --------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Hoogit     | **-**     | **3+**                                                                               | **-**                                                                                   | **5+**                                                                          | **8**                                                                            | **4**  | **3**  | **5**  | Gobelin  |
-| Gro’ os    | **7**     | **4+**                                                                               | **-**                                                                                   | **-**                                                                           | **-**                                                                            | **-**  | **-**  | **-**  | Bête     |
-| **Mêlée:** | 0d6 / 4d6 |                                                                                      | **Tir:**                                                                                | -                                                                               |                                                                                  |        |        |        |          |
-
-*Affinité Chamanique (4), [[Wargame/_Visualisation/Règles spéciales/Cavalerie|Cavalerie]], [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame]] / [[Wargame/_Visualisation/Règles spéciales/Anti-Large|Anti-Large]].*
-##### Équipement :
-- Lame perfide de chef : Hoogit possède un nombre de d6 en mêlée à la caractéristique de PV de l'unité qu'il cible.
-##### Règles spéciales :
-- Crocs d’araignée : les jets d’attaque en mêlée de 5+ de Gro’ os infligent des dégâts bruts.
-- Monture araignée : cette unité peut *escalader* malgré la règle cavalerie. Les décors ne sont pas considérés comme des obstacles en ce qui concerne les charges.
-- Balance : si l'affinité de votre bande est Chamanique, ce modèle bénéficie de [[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]]. Si l’affinité de votre bande est Occulte, Gro' os inflige des dégâts bruts sur 4+.
----
-
-### Kaptain Gob — 20 pts
-
-| 🟥         | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Captain    | **5**   | **4+**                                                                               | **4+**                                                                                  | **4+**                                                                          | **7**                                                                            | **2**  | **2**  | **2**  | Gobelin  |
-| **Mêlée:** | 3d6     |                                                                                      | **Tir:**                                                                                | 3d6                                                                             |                                                                                  |        |        |        |          |
-
-*Affinité Occulte (2)*
-##### Équipement :
-- Arme lourde (+2 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (+1)]].
-- Arc long (+4 pts) : Portée (C : 12’’, L : 15’’).
-##### Règles spéciales :
-- Taktik parfèt (1) : Le Captain Gob échange sa place avec un modèle ami à 12’’ ou moins. Vous pouvez choisir l’orientation des modèles après avoir échangé leur place, mais le centre de chaque modèle doit se trouver à l’emplacement du centre de l’ancien modèle.
----
-
-<div class="legendary">
-
-### Kiggit Œil de Lynx — 42 pts
+### Drŷs — 74 pts
 
 </div>
 
 | ⬜🟥        | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Kiggit     | **5**   | **4+**                                                                               | **3+**                                                                                  | **5+**                                                                          | **8**                                                                            | **3**  | **2**  | **1**  | Gobelin  |
-| **Mêlée:** | 2d6     |                                                                                      | **Tir:**                                                                                | 4d6                                                                             |                                                                                  |        |        |        |          |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+| Vénérable     | **5** | **3+** | **-** | **5+** | **7+** | **7**  | **2**  | **3**  | Arbre  |
+| **Mêlée:** | 8d6 |  | **Tir:** | - |   |   |   |   |    |
 
-*Affinité Chamanique (3), [[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]], [[Wargame/_Visualisation/Règles spéciales/Motivant|Motivant]], [[Wargame/_Visualisation/Règles spéciales/Tireur d'Élite|Tireur d'Élite]].*
+*[[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (3)]].*
 ##### Équipement :
-- Arc de Kiggit : Portée (C : 15’’, L : 21’’).
+- Lame Lunaire (+3 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame].
+- Lame Solaire (+3 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Attaques Enflammées|Attaques Enflammées]].
 ##### Règles spéciales :
-- Visez ici ! (2) : tous les modèles Gobelins à 6’’ ou moins bénéficient de +1 à leurs jets de touche d'attaque à distance.
-- Balance : Si l'affinité de votre bande est Chamanique, *Visez ici !* cible tous les modèles Gobelin à 12'' ou moins. Si l'affinité de votre bande est Occulte, les modèles ciblés par *Visez ici !* bénéficient également de +1 Vitesse pour le reste du tour.
-- Lé fidèl de Kiggit : Lors de la construction de votre bande, vous pouvez désigner un modèle Gobelin comment Fidèles de Kiggit. Si vous le faites, celui-ci voit son coût augmenter de 1 pts par unité et gagne la règle spéciale [[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]], mais doit être déployé en Troupe avec Kiggit.
+- Germination : au début de chaque tour, une Drŷs reçoit 1 Floraison.
 
 ---
 
 <div class="legendary">
 
-### Slaig le Pourfendeur sur Magmadon asservi — 108 pts
+### Reine des ruches — 46 pts
 
 </div>
 
 | ⬜    | **Vit**   | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type**    |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Slaig   | - | **4+** | **3+** | **3+** | **9** | **9**  | **4**  | **7**  | Orque  |
-| Magmadon   | **6** | **4+** | **-** | **-** | **-** |   |   |    | Elémentaire |
-| **Mêlée:** | 6d6 / 8d6 |   | **Tir:** | - |  |   |    |    |   |
+| Reine   | **5** | **4+** | **4+** | **-** | **-** | **5** | **5** |  **5**  | Elémentaire |
+| **Mêlée:** | 6d6 |   | **Tir:** | 6d6 |  |   |    |    |   |
 
-*Affinité Occulte (7), [[Wargame/_Visualisation/Règles spéciales/Cavalerie|Cavalerie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (1)]] / [[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (1)]].*
+*[[Wargame/_Visualisation/Règles spéciales/Eclaireur|Eclaireur]], [[Wargame/_Visualisation/Règles spéciales/Guide|Guide]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (6)]].*
 ##### Équipement :
-- Hach de Pourfendeur : si Slaig tue au moins une unité, il régénère 2 PV.
+- Essaim virulent : Portée (C : 9’’, L : 18’’), [[Wargame/_Visualisation/Règles spéciales/Tireur d'Élite|Tireur d'Élite]].
 ##### Règles spéciales :
 - Peau d’élémentaire de feu : cette unité ne peut subir de dégâts que d’attaques ayant la règle spéciale [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice]] ou [[Wargame/_Visualisation/Règles spéciales/Perforant|Perforant]].
-- Couronne de domination : chaque tour, Magmadon tente de se libérer de Slaig. Lorsque vous activez cette unité, faites-lui réaliser un test de moral. En cas d’échec, marquez-la activé. Si Nagash est également présent dans la partie, il perd sa règle de Couronne de domination.
-- [[Wargame/_Visualisation/Règles spéciales/Aura|Aura]] de feu supérieur : à la fin de chaque tour, tout modèle ennemi à 3’’ ou moins de cette unité reçoit 1 marqueur *enflammé*. Si la météo est Pluie de feu, la portée de l’aura est de 6’’.
-- Gueule enflammée : Magmadon impose 2 marqueurs *enflammé* s’il réussit au moins 2 touches en mêlée.
-- Né des flammes : Cette unité est immunisée à la règles [[Wargame/_Visualisation/Règles spéciales/Attaques Enflammées|Attaques Enflammées]].
-  
+- Butinage (1-2) : au début de chaque tour, désignez autant de modèles amis à 9'' ou moins que vous n'avez dépensé de Manoeuvres et octroyez leur 1 Floraison.
+
 ---
+
+<div class="legendary">
+
+### Vénérable — 74 pts
+
+</div>
+
+| ⬜🟥        | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+| Vénérable     | **5** | **3+** | **-** | **5+** | **18** | **6**  | **6**  | **1**  | Arbre  |
+| **Mêlée:** | 8d6 |  | **Tir:** | - |   |   |   |   |    |
+
+*[[Wargame/_Visualisation/Règles spéciales/Guide|Guide]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (6)]].*
+##### Équipement :
+- Vouge forgeramure (+4 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame].
+##### Règles spéciales :
+- Préserver la nature : une fois par partie, vous pouvez décider de ne pas passer à la saison suivante lors du changement d'un tour.
+- Vénérable : le Vénérable commence la partie avec 4 Floraisons, lorsque le Vénérable est tué, transférez tous ses marqueurs Floraison à un modèle allié à 9'' ou moins.
+- Floraison mortelle : ce modèle peut dépenser 1 Floraison avant d'effectuer une attaque en mêlée à distance pour infliger des dégâts bruts sur toutes ses touches.
+---
+
 ## Modèles de base
 
 ---
@@ -285,259 +197,11 @@ Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisati
 ##### Règles spéciales :
 - Floraison mortelle : ce modèle peut dépenser 1 Floraison avant d'effectuer une attaque en mêlée à distance pour infliger des dégâts bruts sur toutes ses touches.
 ---
-### Combattant orque — 8 pts
 
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Orque | **5** | **4+** | **-** | **5+** | **6** | **1** | **2** | **1** | Orque |
-| **Mêlée:** | 2d6 |  | **Tir:** | - |  |  |  |  |  |
-
-##### Équipement :
-- Bouclier (+1 pts) : l’armure de cette unité passe à 4+.
-- Arme lourde (+2 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (+1)]].
-- Lance (+2 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Anti-Large|Anti-Large]].
-##### Règles spéciales :
-- Balance : si l'affinité de votre bande est Chamanique, ce modèle bénéficie de +1 [[Wargame/_Visualisation/Règles spéciales/Egide|Egide (1)]]. Si l’affinité de votre bande est Occulte, ce modèle bénéficie de +1d6 en mêlée.
----
-### Gobelin — 4 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Gobelin | **5** | **5+** | **5+** | **6+** | **5** | **1** | **2** | **1** | Gobelin |
-| **Mêlée:** | 1d6 |  | **Tir:** | 1d6 |  |  |  |  |  |
-
-##### Équipement :
-- Lance (+1 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Anti-Large|Anti-Large]].
-- Arc court (+1 pts) : Portée (C : 9’’, L : 15’’)
-
----
-### Gobelin sur araignée — 15 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Gobelin | **-** | **5+** | **-** | **5+** | **6** | **2** | **3** | **2** | Gobelin |
-| Araignée | **7** | **4+** | **-** | **-** | **-** | **-** | **-** | **-** | Bête |
-| **Mêlée:** | 2d6 / 2d6 |  | **Tir:** |  |  |  |  |  |  |
-
-*Affinité Chamanique (1), [[Wargame/_Visualisation/Règles spéciales/Cavalerie|Cavalerie]] / -.*
-##### Équipement :
-- Lance de cavalerie (+1 pts) : le Gobelin bénéficie de +1d6 en mêlée s'il a chargé ce tour-ci.
-##### Règles spéciales :
-- Crocs d’araignée : les jets d’attaque en mêlée de 5+ de l’araignée infligent des dégâts bruts.
-- Monture araignée : cette unité peut *escalader* malgré la règle cavalerie. Les décors ne sont pas considérés comme des obstacles en ce qui concerne les charges.
-- Balance : si l'affinité de votre bande est Chamanique, ce modèle bénéficie de [[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]]. Si l’affinité de votre bande est Occulte, l'araignée inflige des dégâts bruts sur 4+.
-
----
-### Gobelin sur loup — 13 pts
-
-|            | **Vit**   | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | --------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Gobelin    | **-**     | **5+**                                                                               | **5+**                                                                                  | **5+**                                                                          | **5**                                                                            | **2**  | **3**  | **2**  | Gobelin  |
-| Loup       | **8**     | **4+**                                                                               | **-**                                                                                   | **-**                                                                           | **-**                                                                            | **-**  | **-**  | **-**  | Bête     |
-| **Mêlée:** | 2d6 / 2d6 |                                                                                      | **Tir:**                                                                                | 2d6 / -                                                                         |                                                                                  |        |        |        |          |
-
-*Affinité Chamanique (1), [[Wargame/_Visualisation/Règles spéciales/Cavalerie|Cavalerie]], [[Wargame/_Visualisation/Règles spéciales/Plateforme de Tir Instable|Plateforme de Tir Instable]], / -.*
-##### Équipement :
-- Lance de cavalerie (+1 pts) : le Gobelin bénéficie de +1d6 en mêlée s'il a chargé ce tour-ci.
-- Arc court (+2 pts) : Portée (C : 12’’).
----
-### Primordial — 18 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Primordial | **5** | **4+** | **-** | **4+** | **7** | **2** | **2** | **2** | Orque |
-| **Mêlée:** | 2d6 |  | **Tir:** | - |  |  |  |  |  |
-
-*Affinité Occulte (1), [[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (1)]], [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame]].*
-##### Équipement :
-- Bouclier (+2 pts) : permet de relancer les jets d’armure de 1 venant de l’arc frontal.
-- Arme lourde (+3 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (+1)]].
-- Lance sinistre (+2 pts) : remplace [[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]] par [[Wargame/_Visualisation/Règles spéciales/Anti-Large|Anti-Large]].
-- Marque de Magmadon (+1 pt) : confère [[Wargame/_Visualisation/Règles spéciales/Attaques Enflammées|Attaques Enflammées]].
-- Zimmortels de Slaig (+7 pts) : la caractéristique de mêlée de cette unité devient 3+. La caractéristique de PV de cette unité devient 3, et sa Masse devient 3.
-##### Règles spéciales :
-- Balance : Si l'affinité de votre bande est Chamanique, cette unité bénéficie de [[Wargame/_Visualisation/Règles spéciales/Egide|Egide (1)]] au début de chaque tour. Si l’affinité de votre bande est Occulte, cette unité inflige 1 Blessure à l’attaquant si elle est tuée en mêlée.
-
----
-### Sapeur — 16 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Sapeur | **5** | **5+** | **4+** | **6+** | **6** | **2** | **2** | **2** | Gobelin |
-| **Mêlée:** | 2d6 |  | **Tir:** | 3d6 |  |  |  |  |  |
-
-*Affinité Occulte (1), [[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]].*
-##### Équipement :
-- Pistolé à klou : Portée (C : 9’’, L : 15’’), [[Wargame/_Visualisation/Règles spéciales/Attaques Enflammées|Attaques Enflammées]].
-##### Règles spéciales :
-- Sabotage : à la fin de chaque tour, désignez un modèle machine à 9’’ ou moins et retirez lui 3 PV.
-
----
-### Traq'eur embuské — 15 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Gobelin | **5** | **4+** | **-** | **6+** | **5** | **1** | **2** | **2** | Gobelin |
-| **Mêlée:** | 2d6 |  | **Tir:** | - |  |  |  |  |  |
-
-*Affinité Occulte (2), [[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Frappe Toujours en Premier|Frappe Toujours en Premier]].*
-##### Équipement :
-- Lames empoisonnées (+4 pts) : confère attaques empoisonnées.
-##### Règles spéciales :
-- Embuské : ne déployez pas cette unité, à la place, lors de la création de votre liste d’armée, désignez une unité Gobelin amie dans laquelle elle est cachée. Dès qu’un modèle adverse se retrouve à 4’’ ou moins de l’unité hôte, vous pouvez arrêter son déplacement et révéler le Traq’eur embuské en l’engageant avec elle.
-
-___
-### Troll — 27 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Troll | **6** | **5+** | **-** | **6+** | **5** | **5** | **3** | **3** | Bête |
-| **Mêlée:** | 6d6 |  | **Tir:** | - |  |  |  |  |  |
-
-*[[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (2)]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (2)]].*
-##### Equipement :
-- Marque d'obsidienne (+4 pts) : votre bande reçoit Affinité Occulte (6).
-- Marque des Esprits (+4 pts) : votre bande reçoit Affinité Chamanique (6).
-##### Règles spéciales :
-- Gardien des esprits : Un troll qui meurt ne déclenche pas de Panique.
-- Balance : Si l'affinité de votre bande est Chamanique, vous pouvez octroyer [[Wargame/_Visualisation/Règles spéciales/Sauvagerie|Sauvagerie]] aux modèles de votre choix à 9'' ou moins. Si l'affinité de votre bande est Occulte, déclenchez la règle [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération]] du Troll au moment de sa mort, le sauvant potentiellement de son funeste destin.
----
 ## Modèles de soutient
 
 ---
-### Baliste — 34 pts
-
-|            | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Baliste    | **4**   | **6+**                                                                               | **4+**                                                                                  | **4+**                                                                          | **5**                                                                            | **3**  | **3**  | **5**  | Machine  |
-| **Mêlée:** | 3d6     |                                                                                      | **Tir:**                                                                                | 4d6                                                                             |                                                                                  |        |        |        |          |
-
-*Affinité Occulte (1)*
-##### Équipement :
-- Baliste : Portée (C : 15’’, L : 22’’), [[Wargame/_Visualisation/Règles spéciales/Anti-Large|Anti-Large]], [[Wargame/_Visualisation/Règles spéciales/Perforant|Perforant (1)]], [[Wargame/_Visualisation/Règles spéciales/Tir Long|Tir Long]].
-##### Règles spéciales :
-- Batterie : cette unité bénéficie de +1d6 par autre Machine au sein de son modèle et +1d6 par machine à 3’’ ou moins.
-
----
-### Catapulte — 32 pts
-
-|            | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Catapulte  | **4**   | **6+**                                                                               | **5+**                                                                                  | **4+**                                                                          | **5**                                                                            | **3**  | **3**  | **5**  | Machine  |
-| **Mêlée:** | 3d6     |                                                                                      | **Tir:**                                                                                | 3d6                                                                             |                                                                                  |        |        |        |          |
-
-*Affinité Occulte (1)*
-##### Équipement :
-- Catapulte : Portée (C : 15’’, L : 24’’), [[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Perforant|Perforant (2)]], [[Wargame/_Visualisation/Règles spéciales/Tir Indirect|Tir Indirect]], [[Wargame/_Visualisation/Règles spéciales/Tir Long|Tir Long]].
-##### Règles spéciales :
-- Batterie : cette unité bénéficie de +1d6 par autre Machine au sein de son modèle et +1d6 par machine à 3’’ ou moins.
-
----
-### Chaman gobelin — 15 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Chaman | **5** | **5+** | **4+** | **6+** | **6** | **2** | **2** | **3** | Gobelin |
-| **Mêlée:** | 1d6 |  | **Tir:** | 2d6 |  |  |  |  |  |
-
-*Affinité Chamanique (4).*
-##### Équipement :
-- Apprenti un peu moisi (par défaut) : lanceur de sorts de niveau 1
-- Gribouilleur (+5 pts) : lanceur de sorts de niveau 2.
-- Œil cendré (+11 pts) : lanceur de sorts de niveau 3.
-##### Magie :
-- Les chamans gobelin ont accès au Domaine de la Sournoizerie et au Domaine Primordial.
-
----
-### Chaman orque — 17 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Chaman | **5** | **4+** | **4+** | **6+** | **7** | **2** | **2** | **3** | Orque |
-| **Mêlée:** | 2d6 |  | **Tir:** | 2d6 |  |  |  |  |  |
-
-##### Équipement :
-- Novice (par défaut) : lanceur de sorts de niveau 1
-- Eveillé (+5 pts) : lanceur de sorts de niveau 2.
-- Long-voyant (+11 pts) : lanceur de sorts de niveau 3.
-- Monture Grondeur (+20 pts) : le chaman chevauche un grondeur
-##### Magie :
-- Les chamans orque ont accès au Domaine du Cataclysme et un domaine au choix entre le Domaine Primordial et le Domaine des Ténèbres.
-##### Règles spéciales :
-- Polyvalence : ce modèle confère *Affinité Chamanique (4)* s’il apprend le Domaine Primordial, et *Affinité Occulte (4)* s’il apprend le Domaine des Ténèbres.
-
----
-### Frappeur de tambour — 22 pts
-
-|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Frappeur | **5** | **4+** | **-** | **4+** | **6** | **2** | **2** | **1** | Orque |
-| **Mêlée:** | 2d6 |  | **Tir:** | - |  |  |  |  |  |
-
-*Affinité Occulte (2), [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (1)]], [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame]].*
-##### Équipement :
-- Tambours de guerre : au début de chaque tour, désignez un modèle à 6’’ ou moins qui peut effectuer une marche gratuite.
-
----
-### Grand Icone sanglant — 20 pts
-
-| 🟥         | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Porteur    | **5**   | **4+**                                                                               | **-**                                                                                   | **5+**                                                                          | **7**                                                                            | **2**  | **2**  | **1**  | Orque    |
-| **Mêlée:** | 2d6     |                                                                                      | **Tir:**                                                                                | -                                                                               |                                                                                  |        |        |        |          |
-
-##### Équipement :
-- Grand Icône : les modèles amis à 14'' ou moins bénéficient de +1 à leurs tests de moral et au lancement de leurs sorts.
-##### Règles spéciales :
-- Commencer le rituel : utilisable une seule fois par partie pour inverser l'affinité de votre bande en conservant son rang.
-
----
-### Mekanicien — 16 pts
-
-| 🟥         | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Mekanicien | **5**   | **4+**                                                                               | **4+**                                                                                  | **4+**                                                                          | **7**                                                                            | **2**  | **2**  | **1**  | Gobelin  |
-| **Mêlée:** | 2d6     |                                                                                      | **Tir:**                                                                                | 2d6                                                                             |                                                                                  |        |        |        |          |
-
-*Affinité Occulte (1)*
-##### Équipement :
-- Klé à molet’ : Portée (C : 6’’, L : 12’’).
-##### Règles spéciales :
-- Tir de barrage : les Machines à 9’’ ou moins bénéficient de +1 à leurs jets de touche. Cet effet n’est pas cumulable avec d’autres effets apportés par d’autres Mekaniciens .
-
----
 ## Modèles Spéciaux
-
----
-### Géant — 58 pts
-
-|            | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Géant      | **6**   | **5+**                                                                               | **-**                                                                                   | **6+**                                                                          | **6**                                                                            | **14** | **5**  | **4**  | Machine  |
-| **Mêlée:** | 10d6    |                                                                                      | **Tir:**                                                                                | -                                                                               |                                                                                  |        |        |        |          |
-
-*[[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (3)]].*
-##### Règles spéciales :
-- Niom : à la fin de chaque tour, le Géant peut désigner une unité de taille 2 ou moins avec laquelle il est engagé en mêlée, et la manger. Elle est alors retirée du jeu et le géant régénère 2 PV perdus.
-
----
-### Tarentule — 68 pts
-
-|            | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
-| ---------- | ------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ------ | -------- |
-| Tarentule  | **6**   | **3+**                                                                               | **-**                                                                                   | **5+**                                                                          | **6**                                                                            | **8**  | **5**  | **8**  | Monstre  |
-| Gobelins   | **-**   | **-**                                                                                | **5+**                                                                                  | **-**                                                                           | **-**                                                                            | **-**  | **-**  | **-**  | Gobelin  |
-| **Mêlée:** | 8d6 / - |                                                                                      | **Tir:**                                                                                | - / 4d6                                                                         |                                                                                  |        |        |        |          |
-
-*[[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Cavalerie|Cavalerie]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (2)]], [[Wargame/_Visualisation/Règles spéciales/Plateforme de Tir|Plateforme de Tir]] / -.*
-##### Équipement :
-- Bénédiction d’obsidienne (+12 pts) : la tarentule gagne +2 PV et son armure passe à 4+. De plus, votre bande reçoit Affinité Occulte (6).
-- Bénédiction des Esprits (+12 pts) : la tarentule bénéficie de la règle sléciale [[Wargame/_Visualisation/Règles spéciales/Furtif|Furtif]] et ses *Crocs d'araignée* se déclenchent sur 4+ au lieu de 5+. De plus, votre bande reçoit Affinité Chamanique (6).
-- Equipage gobelin (+4 pts) : des gobelins s’ajoutent à la tarentule. Ils possèdent des arcs courts : Portée (C : 9'', L : 12'').
-- Cavalier chaman (+25 pts) : un chaman gobelin de niveau 3 monte le dos de la Tarentule, il a accès au Domaine de la Sounoizerie et au Domaine Primordial.
-##### Règles spéciales
-- Crocs d’araignée : les jets d’attaque en mêlée de 5+ de la tarentule infligent des dégâts bruts.
-- Monture araignée : cette unité peut *escalader* malgré la règle cavalerie. Les décors ne sont pas considérés comme des obstacles en ce qui concerne les charges.
 
 ---
 
