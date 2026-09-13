@@ -114,9 +114,9 @@ Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisati
 
 </div>
 
-| ⬜🟥        | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
+| 🟥        | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Vénérable     | **5** | **3+** | **-** | **5+** | **7+** | **7**  | **2**  | **3**  | Arbre  |
+| Drŷs     | **5** | **3+** | **-** | **5+** | **7+** | **7**  | **2**  | **3**  | Arbre  |
 | **Mêlée:** | 8d6 |  | **Tir:** | - |   |   |   |   |    |
 
 *[[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (3)]].*
@@ -134,17 +134,16 @@ Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisati
 
 </div>
 
-| ⬜    | **Vit**   | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type**    |
+| 🟥🟥    | **Vit**   | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type**    |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Reine   | **5** | **4+** | **4+** | **-** | **-** | **5** | **5** |  **5**  | Elémentaire |
+| Reine   | **5** | **4+** | **4+** | **3+** | **8+** | **5** | **5** |  **5**  | Elémentaire |
 | **Mêlée:** | 6d6 |   | **Tir:** | 6d6 |  |   |    |    |   |
 
-*[[Wargame/_Visualisation/Règles spéciales/Eclaireur|Eclaireur]], [[Wargame/_Visualisation/Règles spéciales/Guide|Guide]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (6)]].*
+*[[Wargame/_Visualisation/Règles spéciales/Eclaireur|Eclaireur]], [[Wargame/_Visualisation/Règles spéciales/Guide|Guide]].*
 ##### Équipement :
-- Essaim virulent : Portée (C : 9’’, L : 18’’), [[Wargame/_Visualisation/Règles spéciales/Tireur d'Élite|Tireur d'Élite]].
+- Essaim toxique : Portée (C : 9’’, L : 18’’), [[Wargame/_Visualisation/Règles spéciales/Tireur d'Élite|Tireur d'Élite]]. Les modèles adverses touché par un Essaim toxique ne peuvent plus effectuer d'attaque à distance pour le reste du tour.
 ##### Règles spéciales :
-- Peau d’élémentaire de feu : cette unité ne peut subir de dégâts que d’attaques ayant la règle spéciale [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice]] ou [[Wargame/_Visualisation/Règles spéciales/Perforant|Perforant]].
-- Butinage (1-2) : au début de chaque tour, désignez autant de modèles amis à 9'' ou moins que vous n'avez dépensé de Manoeuvres et octroyez leur 1 Floraison.
+- Essaim virulant : [[Wargame/_Visualisation/Règles spéciales/Aura|Aura (N)]], l'aura de cette règle est égale à 2 fois le nombre de floraisons que possède ce modèle. Tous les modèles adverses pris dans dans l'aura souffrent d'un malus de -1 pour toucher.
 
 ---
 
@@ -154,9 +153,9 @@ Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisati
 
 </div>
 
-| ⬜🟥        | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
+| ⬜        | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Vénérable     | **5** | **3+** | **-** | **5+** | **18** | **6**  | **6**  | **1**  | Arbre  |
+| Vénérable     | **5** | **3+** | **-** | **5+** | **8+** | **17**  | **6**  | **1**  | Arbre  |
 | **Mêlée:** | 8d6 |  | **Tir:** | - |   |   |   |   |    |
 
 *[[Wargame/_Visualisation/Règles spéciales/Guide|Guide]], [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (6)]].*
@@ -200,7 +199,18 @@ Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisati
 
 ## Modèles de soutient
 
+### Souche — 11 pts
+
+|  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Souche | **-** | **-** | **-** | **2+** | **-** | **6** | **1** | **-** | Terrain |
+| **Mêlée:** | - |  | **Tir:** | - |  |  |  |  |  |
+
+
+##### Règles spéciales :
+- Terrain fertile : au début de chaque tour, désignez 1 modèle ami à 12'' ou moins et octroyez-lui 1 Floraison.
 ---
+
 ## Modèles Spéciaux
 
 ---
