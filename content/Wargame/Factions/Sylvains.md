@@ -47,38 +47,6 @@ Les sylvains vivent au fil des saisons, lorsqu'un nouveau tour commence, passez 
 
 ---
 
-<center><h2>Clans Peaux-Vertes</h2></center>
-
-<div class="cp-encadre">
-
-Lors de la création d'une armée Peaux-Vertes, choisissez à quel clan elle appartient. Tous les modèles de votre armée gagnent alors les bonus du clan.
-#### Clan Kipik
-- Pluie de flèches : lors d’attaques à distance, les résultats de 5 et 6 naturels sont explosifs, à conditions que ce soient des réussites. Une fois par partie vous pouvez déclencher le ciel gris, ce qui octroie +1d6 à toutes vos unités pour leurs attaques à distance.
-#### Clan de la Harde de Fer
-Affinité Occulte (8)
-- Charge massiv’ : les modèles adverses ne peuvent bénéficier de *Défense d’obstacle,* ou de n’importe quelle autre règle défensive lorsqu’ils se font charger par des modèles de la Harde de Fer.
-#### Clan du Crâne Mystique
-Affinité Chamanique (8)
-- Protection des ancêtres : Si un modèle subit au moins une blessure, vous pouvez dépenser un dé de votre réserve de magie pour annuler 1 blessure.
-#### Clan du Fléau Noir
-Affinité Occulte (4)
-- Honneur au clan : lorsqu’un modèle de ce clan parvient à éliminer ou mettre en déroute un modèle adverse, gagnez 1 Manœuvre.
-#### Clan des Mâcheurs Cendrés
-- Kachés dans la foré : Toute votre armée bénéficie de la règle spéciale [[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]].
-#### Clan Fouet de Lave
-Affinité Occulte (6)
-- Dompter la nature : Vos effets de début et fin de tour se déclenchent deux fois.
-#### Clan Forgefeu
-Affinité Chamanique (4)
-- Embrasement : Chaque fois qu’un modèle ami attaque, si la moindre touche est obtenue, la cible est marquée *[[Wargame/_Visualisation/Règles spéciales/Attaques Enflammées|enflammé]].*
-#### Clan des Caverneux
-Affinité Chamanique (6)
-- Peau fongique : lorsqu'un modèle de ce clan subi une blessure en mêlée, l'attaquant est marqué *[[Wargame/_Visualisation/Règles spéciales/Attaques Empoisonnées|empoisonné]]*.
-
-</div>
-
----
-
 <center><h2>Domaines de Faction</h2></center>
 
 <div class="cp-domaine">
@@ -132,64 +100,6 @@ Portée 18'', 3d6. Pour chaque réussite, désignez un modèle *[[Wargame/_Visua
 
 ##### Pluie de feu *(long, 14+, Météo)*
 Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisation/Règles spéciales/Attaques Enflammées|enflammé]]* souffrent d'un malus de -1 à leur moral par marqueur *[[Wargame/_Visualisation/Règles spéciales/Attaques Enflammées|enflammé]]*.
-</div>
-</div>
-</div>
-</div>
-
-<div class="cp-domaine">
-
-## Domaine de la Sournoizerie
-
-<div class="cp-attribut">
-
-**Attribut : Filouterie :** Lorsqu'un sort de ce domaine est lancé, désignez un modèle ennemi à 15'' et retirez lui le marqueur de votre choix.
-</div>
-
-<div class="cp-niveau">
-
-### Niveau 1
-<div class="cp-sorts">
-<div class="cp-sort">
-
-##### Ciel grisâtre *(court, 0+, Amélioration)*
-Portée 9'', cible un modèle ami. Le modèle ciblé bénéficie de +1d6 sur ses attaques à distance pour le reste du tour.
-</div>
-<div class="cp-sort">
-
-##### Projectile magik' *(court, 6+, Projectile)*
-Portée 15'', 5d6 .
-- **→ Version renforcée (1) :** l'attaque à distance gagne Perforant (1).
-</div>
-</div>
-</div>
-
-<div class="cp-niveau">
-
-### Niveau 2
-<div class="cp-sorts">
-<div class="cp-sort">
-
-##### Poil à gratter *(court, 6+, Malédiction)*
-Portée 15'', cible un modèle ennemi. Pour le reste de la partie, chaque fois que votre adversaire active ce modèle, il jette un dé, sur 5+ il passe son tour à se gratter, marquez-le Activé.
-</div>
-<div class="cp-sort">
-
-##### Katapult *(long, 10+, Projectile)*
-Portée 9'', cible un modèle ami. Le modèle ciblé est catapulté sur une distance de 9'' ou moins. Désignez alors un modèle ennemi à 3'' ou moins de la zone d'atterrissage qui subit 5 touches Force Dévastatrice (1), le modèle ami subit 2 touches Force Dévastatrice (1). S'il survit et se retrouve à 1'' ou moins d'un modèle ennemi, il s'agit d'une Charge (il est ensuite marqué Activé dans ce cas).
-- **→ Version renforcée (1) :** la distance de la catapulte est de 12'' au lieu de 9''.
-</div>
-</div>
-</div>
-
-<div class="cp-niveau">
-
-### Niveau 3
-<div class="cp-sorts">
-<div class="cp-sort">
-
-##### Pluie d'acid' *(long, 14+, Projectile)*
-Portée 12'' – 21'', cible toutes les unités adverses à portée. Chaque unité doit réussir un test d'armure avec un malus de -1 sous peine de perdre 1 PV.
 </div>
 </div>
 </div>
