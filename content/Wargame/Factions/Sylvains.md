@@ -4,53 +4,42 @@
 
 <div class="cp-encadre">
 
-#### Frénésie (3)
-Utilisable une seule fois par partie, tous les modèles de votre armée gagnent +1d6 en mêlée et à distance.
-#### Ils zétais faibl' :
-Les modèles Orques n'ont pas a effectuer de test de panique lorsqu'un modèle Gobelin est détruit à  6'' ou moins.
-#### Brutalité (1) :
-Orques uniquement.
-Après qu’un modèle ami ait éliminé un modèle ennemi, retirez son marqueur Activé, ne peut être utilisé qu’une seule fois par modèle dans un même tour. L’unité ne peut bénéficier d’action anticipée.
-#### Fuite (1) :
-Gobelins uniquement.
-Lorsqu’une unité Gobelin est engagée en mêlée, si elle n’est pas fatiguée, elle peut, avant la résolution de toute attaque, effectuer une action de *marche* puis être marquée Activée, ou fatiguée si elle est déjà activée. Si l’unité l’ayant *engagée* n’a plus assez de mouvement pour la contacter, son activation se termine (elle ne peut être marquée fatiguée).
+#### Peau d'écorce
+Lorsqu'un de vos modèles subit une attaque, il peut transformer toutes ses Floraisons en [[Wargame/_Visualisation/Règles spéciales/Egide|Egides]].
+
 
 </div>
 
 ---
 
-<center><h2>Occultisme et Chamanisme</h2></center>
+<center><h2>Saisons</h2></center>
 
 <div class="cp-encadre">
 
-Les peaux-vertes, bien que créés par de sombres rituels occultes, ont peu à peu abandonné l'occultisme pour le Chamanisme. Lorsque vous créez une armée Peaux-Vertes, les unités et clans vous donnent des affinités avec l'Occultisme ou le Chamanisme.
+Les sylvains vivent au fil des saisons, lorsqu'un nouveau tour commence, passez à la saison suivante. Au début du tour 1, la saison est le Printemps.
 
 <div class="cp-encadre">
 
-#### Equillibre
-Equilibre : Si l’affinité de votre bande n'est ni Occulte ni Chamanique, vous pouvez relancer tous les jets d’attaque en mêlée, à distance, ainsi que les jets d’armure ayant obtenu 1. De plus, une bande à l'Equilibre permet à tous ses modèles utilisant la Balance de bénéficier à la fois des bonus Chamaniques et Occultisme.
+#### Printemps
+Jeunes pousses : au début du tour, placez 1 marqueur Floraison sur chacun de vos modèles.
 
 </div>
 <div class="cp-encadre">
 
-#### Occultisme
-Affinité Occulte (2+) : Si votre bande est d’affinité Occulte, vos modèles bénéficient d'un bonus de +1 Moral
-- Rang I (4+) : les modèles ennemis à 6’’ ou moins d’un Commandant ami souffrent d’un malus de -1 Moral.
-- Rang II (8+) : une fois par partie, vous pouvez choisir de réussir un test de moral qu’un de vos modèles a raté.
-- Rang III (12+) : lors de la création de votre bande, vous pouvez octroyer +1d6 en mêlée aux unités d’un de vos modèles.
-- Rang IV (16+) : lorsque vous activez un commandant, vous pouvez lui retirer 1 PV pour gagner 1 Manœuvre.
-- Rang V (20+) : si vous réussissez à dissiper un sort adverse, le lanceur est tué.
+#### Eté
+Festival du feu : vos modèles bénéficient de +1d6 en mêlée par marqueur Floraison qu'ils possèdent.
 
 </div>
 <div class="cp-encadre">
 
-#### Chamanisme
-Affinité Chamanique (2+) : Si votre bande est d’affinité Chamanique, lorsque vous lancez un sort sur un modèle ami, vous le faites avec un bonus de +3 au lancement des sorts.
-- Rang I (4+) : votre Général vous permet de relancer deux dés de Manœuvre lors de la phase d’Initiative au lieu d'un seul.
-- Rang II (8+) : lors de la création de votre bande, vous pouvez octroyer [[Wargame/_Visualisation/Règles spéciales/Eclaireur|Eclaireur]] à un de vos modèles.
-- Rang III (12+) : vos bêtes bénéficient de +1d6 en mêlée.
-- Rang IV (16+) : au début de chaque tour, vous pouvez conférez [[Wargame/_Visualisation/Règles spéciales/Egide|Egide (2)]] au modèle de votre choix.
-- Rang V (20+) : vous possédez un dé de Manœuvre blanc supplémentaire.
+#### Automne
+Fânures : vos modèles perdent tous 1 Floraison.
+
+</div>
+<div class="cp-encadre">
+
+#### Hiver
+Hibernation : Vos modèles avec au moins 1 Floraison bénéficient de +1 armure.
 
 </div>
 </div>
