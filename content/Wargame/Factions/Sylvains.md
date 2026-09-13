@@ -7,7 +7,7 @@
 #### Peau d'écorce
 Lorsqu'un de vos modèles subit une attaque, il peut transformer toutes ses Floraisons en [[Wargame/_Visualisation/Règles spéciales/Egide|Egides]].
 #### Floraison
-Vos modèles peuvent recevoir des marqueurs Floraison, pour chaque marqueur floraison qu'ils possèdent, ils bénéficient de [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (+1)]].
+Vos modèles peuvent recevoir des marqueurs Floraison, pour chaque marqueur Floraison qu'ils possèdent, ils bénéficient de [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (+1)]].
 
 </div>
 
