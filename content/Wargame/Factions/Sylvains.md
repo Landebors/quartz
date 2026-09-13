@@ -259,32 +259,31 @@ Tant que la pluie de feu est en place, tous les modèles *[[Wargame/_Visualisati
 ## Modèles de base
 
 ---
-### Abatteur — 22 pts
+### Dryade — 17 pts
 
 |  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Abatteur | **5** | **4+** | **3+** | **4+** | **7** | **2** | **2** | **2** | Orque |
-| **Mêlée:** | 2d6 |  | **Tir:** | 2d6 |  |  |  |  |  |
+| Abatteur | **5** | **4+** | **-** | **6+** | **7** | **3** | **2** | **2** | Arbre |
+| **Mêlée:** | 3dsdd6 |  | **Tir:** | 2d6 |  |  |  |  |  |
 
-*Affinité Occulte (1), [[Wargame/_Visualisation/Règles spéciales/Eclaireur|Eclaireur]], [[Wargame/_Visualisation/Règles spéciales/Tireur d'Élite|Tireur d'Élite]].*
-##### Équipement :
-- Arbalète lourde : Portée (C : 12’’, L : 18’’), [[Wargame/_Visualisation/Règles spéciales/Anti-Large|Anti-Large]], [[Wargame/_Visualisation/Règles spéciales/Perforant|Perforant (1)]], [[Wargame/_Visualisation/Règles spéciales/Tir Long|Tir Long]].
+*[[Wargame/_Visualisation/Règles spéciales/Avant-Garde|Avant-Garde]]*
+##### Règles spéciales :
+- Jeune pousse : au début de chaque tour, un modèle de Dryade reçoit 1 Floraison.
 
 ---
-### Chevaucheur de Grondeur — 34 pts
+### Chasseur sauvage — 24 pts
 
 |  | **Vit** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque en mêlée\|Me]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer une attaque à distance\|Tir]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un jet d'armure\|Ar]]** | **[[Wargame/_Visualisation/Règles de bataille/Effectuer un test de moral\|Mo]]** | **PV** | **Ta** | **Ma** | **Type** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Orque | **-** | **4+** | **-** | **4+** | **7** | **3** | **4** | **3** | Orque |
-| Grondeur | **6** | **4+** | **-** | **-** | **-** | **-** | **-** | **-** | Bête |
-| **Mêlée:** | 2d6 / 4d6 |  | **Tir:** | - |  |  |  |  |  |
+| Chasseur | **5** | **3+** | **3+** | **6+** | **7** | **5** | **3** | **3** | Arbre |
+| **Mêlée:** | 2d6 |  | **Tir:** | 2d6 |  |  |  |  |  |
 
-*Affinité Chamanique (2), [[Wargame/_Visualisation/Règles spéciales/Cavalerie|Cavalerie]]. / [[Wargame/_Visualisation/Règles spéciales/Anti-Infanterie|Anti-Infanterie]], [[Wargame/_Visualisation/Règles spéciales/Charge Furieuse|Charge Furieuse]], [[Wargame/_Visualisation/Règles spéciales/Force Dévastatrice|Force Dévastatrice (1)]].*
+* [[Wargame/_Visualisation/Règles spéciales/Régénération|Régénération (3)]]*
 ##### Équipement :
-- Lance de cavalerie (+1 pts) : l'orque bénéficie de +1d6 en mêlée s’il a chargé ce tour-ci.
-- Caparaçon de grondeur (+4 pts) : l'armure de ce modèle passe de 4+ à 3+.
+- Arc forgeramure (+4 pts) : Portée (C : 12’’, L : 18’’), [[Wargame/_Visualisation/Règles spéciales/Tireur d'Élite|Tireur d'Élite]].
+- Sabre forgeramure (+2 pts) : confère [[Wargame/_Visualisation/Règles spéciales/Maitre-Lame|Maitre-Lame].
 ##### Règles spéciales :
-- Balance : si l'affinité de votre bande est Chamanique, ce modèle bénéficie de [[Wargame/_Visualisation/Règles spéciales/Furtif|Furtif]]. Si l’affinité de votre bande est Occulte, le grondeur bénéficie de +1d6 en mêlée.
+- Floraison mortelle : ce modèle peut dépenser 1 Floraison avant d'effectuer une attaque en mêlée à distance pour infliger des dégâts bruts sur toutes ses touches.
 ---
 ### Combattant orque — 8 pts
 
