@@ -22,25 +22,25 @@ Les sylvains vivent au fil des saisons, lorsqu'un nouveau tour commence, passez 
 <div class="cp-encadre">
 
 #### Printemps
-Jeunes pousses : au début du tour, placez 1 marqueur Floraison sur chacun de vos modèles.
+**Jeunes pousses :** au début du tour, placez 1 marqueur Floraison sur chacun de vos modèles.
 
 </div>
 <div class="cp-encadre">
 
 #### Eté
-Festival du feu : vos modèles bénéficient de +1d6 en mêlée par marqueur Floraison qu'ils possèdent.
+**Festival du feu :** vos modèles bénéficient de +1d6 en mêlée par marqueur Floraison qu'ils possèdent.
 
 </div>
 <div class="cp-encadre">
 
 #### Automne
-Fânures : vos modèles perdent tous 1 Floraison.
+**Fânures :** vos modèles perdent tous 1 Floraison.
 
 </div>
 <div class="cp-encadre">
 
 #### Hiver
-Hibernation : Vos modèles avec au moins 1 Floraison bénéficient de +1 armure.
+**Hibernation :** Vos modèles avec au moins 1 Floraison bénéficient de +1 armure.
 
 </div>
 </div>
