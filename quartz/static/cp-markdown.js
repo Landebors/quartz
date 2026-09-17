@@ -5,7 +5,7 @@
  */
 
 (function() {
-  console.log("CP-Markdown chargé v3");
+  console.log("CP-Markdown chargé v4");
   function renderMarkdown(text, isInline) {
     if (typeof marked !== 'undefined') {
       return isInline ? marked.parseInline(text) : marked.parse(text);
@@ -117,7 +117,8 @@
       view.innerHTML = renderMarkdown(val, !isTextarea);
       view.classList.remove('cp-md-empty');
     } else {
-      view.innerHTML = `<span class="cp-md-placeholder">${el.placeholder || '...'}</span>`;
+      const placeholder = el.placeholder || '...';
+      view.innerHTML = `<div class="cp-md-placeholder">${renderMarkdown(placeholder, !isTextarea)}</div>`;
       view.classList.add('cp-md-empty');
     }
     
